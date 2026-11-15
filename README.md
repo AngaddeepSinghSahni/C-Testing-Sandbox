@@ -1,6 +1,6 @@
 # C Foundations & Defensive Testing Sandbox
 
-I'm a first-year computer science student using this repository as a personal sandbox to master low-level mechanics, clean project structure, and defensive programming in C.
+I'm a first-year computer science student using this repository as a personal sandbox for exercises given by my uni’s courses, implemented and tested by me.
 
 ## Core Concepts & Modules
 
